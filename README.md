@@ -7,7 +7,11 @@ Meet is a serverless, progressive web application (PWA) built with React using a
 ## Features
 ### 1. Filter Events By City
 Given: The User has opened the application corectly and has navigated to the search-bar feature and has view the drop-down menu regarding an available location.
+
+
 When: The User clicks on a city location which is available in this drop-down menu.
+
+
 Then: The events listed for that city will appear on the page and the user will be able to view their relevant details. 
 
 ### 2. Show/Hide Event Details
