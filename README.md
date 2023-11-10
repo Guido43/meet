@@ -64,3 +64,6 @@ Then: Data Visualization charts (2) are revealed, showing data-visualization for
 Serverless: No backend maintenance, easy to scale, always available, no cost for idle time.
 PWAs: Instant loading, offline support, push notifications, “add to home screen” prompt.
 responsive design, and cross-platform compatibility.
+
+## Serverless Functionality
+The serverless functions coded into the application result in no need for constant maintenance of the application as it draws its information directly from Google's Calendar application, the information therefore will also always be relevant and up-to-date. The application will also always be available and uses AWS as its serverless platform, therefore also making it easy to scale. As the serverless functionality executes the serverless functions in the application only on user demand per a pay-as-you-go system, there are low online costs resulting as when the application remains idle no costs are incurred.
